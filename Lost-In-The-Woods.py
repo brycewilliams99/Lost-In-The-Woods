@@ -225,5 +225,5 @@ while time != 10:
 for width in forest:
     print(width)
 
-print(user_A) #Get rid of this, for testing purposes
-print(user_B)
+#print(user_A) #Get rid of this, for testing purposes
+#print(user_B)
